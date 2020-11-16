@@ -68,7 +68,7 @@
   'Text Effects',
 ```
 
-12. Assessments (Create HTML and CSS — save them as index.html and style.css in a new directory for every assessment):
+12. **Assessments (Create HTML and CSS — save them as index.html and style.css in a new directory for every assessment):**
     - Create business card:
       - On completion, the page should look like following:
         - ![business-card](https://user-images.githubusercontent.com/74110914/99241831-d5b99400-2817-11eb-81c7-eb1a2a765fb4.png)
