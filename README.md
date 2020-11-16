@@ -1,43 +1,44 @@
 # Front-End Lesson 4, CSS - Homework (15.11.2020)
 
-1. Repeate CSS Selectors [CSS Selector Reference](https://www.w3schools.com/cssref/css_selectors.asp).
+1. Repeat:
+   - [CSS Selector Reference](https://www.w3schools.com/cssref/css_selectors.asp).
+   - [Cascade and inheritance](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Cascade_and_inheritance).
+     - [which-css-properties-are-inherited](https://stackoverflow.com/questions/5612302/which-css-properties-are-inherited)?
+2. **Check out CSS Properties from the tables showed below** - [CSS Properties Reference](https://www.w3schools.com/cssref/default.asp).
+   - B, D (display), F (anything related to `font`), H (height), L, M, P, Q, T (anything related to `text`), W.
+   - Ignore properties in not mentioned tables.
+   - [CSS Browser Support Reference](https://www.w3schools.com/cssref/css3_browsersupport.asp)
+3. **Check CSS Background & Border Property**
+   - https://www.w3schools.com/css/css_background.asp
+   - https://www.w3schools.com/howto/howto_css_parallax.asp
+   - https://www.w3schools.com/css/css_border.asp
+   - https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Backgrounds_and_borders
+4. **Check CSS Functions Reference**
+   - https://www.w3schools.com/cssref/css_functions.asp
+5. **Check CSS Shadows**
+   - https://www.w3schools.com/cssref/css3_pr_box-shadow.asp
+   - https://css-tricks.com/almanac/properties/b/box-shadow/
+   - https://www.w3schools.com/cssref/css3_pr_text-shadow.asp
+6. **Check [CSS Text Effects](https://www.w3schools.com/css/css3_text_effects.asp)**
+7. **Check [CSS Units](https://www.w3schools.com/cssref/css_units.asp)**
+8. **Check some useful resources and tools about colors:**
+   - [Tools](https://www.one-tab.com/page/uJN_JFNhQ9ampTP7N5RktQ)
+   - [Pickers](https://www.one-tab.com/page/qZEXvVYPR96naRHpt8odkw)
+   - [Palettes](https://www.one-tab.com/page/IODBmqewTN6nXtEG-vz2lw)
+9. *CSS Box Model*
+   - https://www.w3schools.com/css/css_margin.asp
+   - https://www.w3schools.com/css/css_padding.asp
+   - https://www.w3schools.com/css/css_dimension.asp
+   - https://www.w3schools.com/css/css_boxmodel.asp
+   - https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/The_box_model
+   - [Box-sizing](https://developer.mozilla.org/en-US/docs/Web/CSS/box-sizing)
+10. * Selector & Global Reset, Normalize:
+   - https://www.w3schools.com/cssref/css_default_values.asp
+   - https://meyerweb.com/eric/tools/css/reset/
+   - https://necolas.github.io/normalize.css/
+
 
 ## Some usefull resources:
 
 - [CSS Specificity Table](https://sites.google.com/site/csskungfu/_/rsrc/1221742532694/specificity/specificity.gif)
-- [CSS Selector Reference](https://www.w3schools.com/cssref/css_selectors.asp)
-- **Colors:**
-    1. [Tools](https://www.one-tab.com/page/uJN_JFNhQ9ampTP7N5RktQ)
-    2. [Pickers](https://www.one-tab.com/page/qZEXvVYPR96naRHpt8odkw)
-    3. [Palettes](https://www.one-tab.com/page/IODBmqewTN6nXtEG-vz2lw)
-    
-    
-    
-3. CSS Properties Reference
-    1. https://www.w3schools.com/cssref/default.asp
-    2. https://www.w3schools.com/cssref/css3_browsersupport.asp
-4. CSS Background Property
-    1. https://www.w3schools.com/cssref/css3_pr_background.aspa
-    2. https://www.w3schools.com/howto/howto_css_parallax.asp
-5. CSS Functions Reference
-    1. https://www.w3schools.com/cssref/css_functions.asp
-6. CSS Shadows 
-    1. https://www.w3schools.com/cssref/css3_pr_box-shadow.asp
-    2. https://css-tricks.com/almanac/properties/b/box-shadow/
-    3. https://a.singlediv.com/
-    4. https://www.w3schools.com/cssref/css3_pr_text-shadow.asp
-7. CSS Text Effects 
-    1. https://www.w3schools.com/css/css3_text_effects.asp
-8. CSS Units - https://www.w3schools.com/cssref/css_units.asp
-9. CSS Box Model
-    1. Width, height, Max-width, max-height, min-width, min-height
-    2. Margin, Padding
-    3. Border, border-width, border-color border-style, border radius
-    4. https://www.w3schools.com/css/css_boxmodel.asp
-    5. https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/The_box_model
-    6. Box-sizing, content-box, border-box (Inspect Element) https://developer.mozilla.org/en-US/docs/Web/CSS/box-sizing 
-    7. * - global reset
-        1. https://meyerweb.com/eric/tools/css/reset/
-        2. https://www.w3schools.com/cssref/css_default_values.asp
-        3. https://necolas.github.io/normalize.css/ 
-
+- [Useful `nth-child` Recipes](https://css-tricks.com/useful-nth-child-recipies/)
